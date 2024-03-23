@@ -1,0 +1,30 @@
+
+.titulo{
+    color: rgb(255, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container{
+    text-align: center;
+}
+#botao1{
+    border-radius: 30%;
+    margin-top: 2cm;
+    margin-right: 1cm;
+    background-color: #ff0000;
+    width: 70px; 
+    height: 40px;
+    
+}
+#botao2{
+    border-radius: 30%;
+    margin-top: 2cm;
+    margin-left: 1cm;
+    background-color: #ff0000;
+    width: 70px; 
+    height: 40px;
+    position: relative;
+
+}
+body{
+    background-color: rgb(219, 182, 182);
+}
